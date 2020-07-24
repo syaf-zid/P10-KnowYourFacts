@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">P10-KnowYourFacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstFragTitle">M&amp;M stands for Mars and Murrie.</string>
+    <string name="firstFragDesc">
+        Forrest Mars (son of the Mars Company founder) first spotted the British confection Smarties during the Spanish Civil War and noticed the candy shell prevented the chocolate from melting.
+        He teamed up with Bruce Murrie (son of Hershey Chocolate\'s president) and the company later trademarked the "Melts in Your Mouth, Not in Your Hand" slogan.
+    </string>
+    <string name="secondFragTitle">You can hear a blue whale\'s heartbeat from more than 2 miles away.</string>
+    <string name="secondFragDesc">
+        The world\'s largest animal\'s heart weighs about 400 pounds — approximately the size of a small piano.
+    </string>
+    <string name="thirdFragTitle">The hashtag symbol is technically called an octothorpe.</string>
+    <string name="thirdFragDesc">
+        According to the Merriam-Webster dictionary, the "octo-" prefix refers to the eight points on the popular symbol,
+        but the "thorpe" remains a mystery. One theory claims that it comes from the Old English word for "village,"
+        based on the idea that the symbol looks like a village surrounded by eight fields!
+    </string>
+</resources>
